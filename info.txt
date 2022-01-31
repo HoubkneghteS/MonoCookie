@@ -1,0 +1,12 @@
+{
+ "Name": "MonoCookie",
+ "ID": "monocookiehoub",
+ "Author": "HoubkneghteS",
+ "Description": "Monokuma Cookie",
+ "ModVersion": 0.1,
+ "GameVersion": 2.043,
+ "Date": "27/01/2022",
+ "Disabled": 1,
+ "AllowSteamAchievs": 1,
+ "Workshop": "2726252383"
+}
